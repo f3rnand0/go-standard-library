@@ -1,0 +1,21 @@
+total 15376
+drwxr-xr-x@ 20 fguerra  staff      640 Mar 31 17:25 .
+drwxr-xr-x@  3 fguerra  staff       96 Mar 31 16:46 ..
+-rw-r--r--@  1 fguerra  staff      619 May  8  2020 bufiodemo.go
+-rw-r--r--   1 fguerra  staff      634 Mar 31 17:24 bufiodemo_fgu.go
+-rwxr-xr-x   1 fguerra  staff  1907648 Mar 31 17:02 dosomething
+-rw-r--r--@  1 fguerra  staff      708 May  3  2020 dosomething.go
+-rwxr-xr-x   1 fguerra  staff  1907584 Mar 31 17:01 dosomething_fgu
+-rw-r--r--   1 fguerra  staff      343 Mar 31 17:04 dosomething_fgu.go
+-rw-r--r--@  1 fguerra  staff      912 May 10  2020 filemaker.go
+-rw-r--r--@  1 fguerra  staff      371 May  5  2020 flagtest.go
+-rwxr-xr-x   1 fguerra  staff  1972352 Mar 31 17:08 flagtest_fgu
+-rw-r--r--   1 fguerra  staff      358 Mar 31 17:07 flagtest_fgu.go
+-rw-r--r--@  1 fguerra  staff      172 May 10  2020 getinput.go
+-rw-r--r--@  1 fguerra  staff      293 May 10  2020 numberadder.go
+-rw-r--r--@  1 fguerra  staff      245 May 10  2020 scandemo.go
+-rwxr-xr-x   1 fguerra  staff  2026480 Mar 31 17:16 scandemo_fgu
+-rw-r--r--   1 fguerra  staff      247 Mar 31 17:15 scandemo_fgu.go
+-rw-r--r--@  1 fguerra  staff      295 May  3  2020 showmestuff.go
+-rw-r--r--   1 fguerra  staff      265 Mar 31 16:50 showmestuff_fgu.go
+-rw-r--r--   1 fguerra  staff        0 Mar 31 17:25 test.txt
